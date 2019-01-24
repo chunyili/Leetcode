@@ -54,4 +54,6 @@ public class DistributeCoinsInBinaryTree {
 
         return left + right + node.val - 1;
     }
+
+    //Write a dfs helper, return the number of coins given to the parent.
 }
