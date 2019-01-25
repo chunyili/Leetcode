@@ -50,3 +50,5 @@ public class NumbersWithSameConsecutiveDifferences {
     }
 
 }
+
+// 类似于BFS
