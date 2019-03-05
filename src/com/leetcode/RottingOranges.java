@@ -89,7 +89,6 @@ public class RottingOranges {
             }
             level++;
         }
-
         return count_fresh == 0 ? level -1 : -1;
 
     }
